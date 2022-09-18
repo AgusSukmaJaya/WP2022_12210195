@@ -1,0 +1,9 @@
+<?php
+class conto1 extends CI_Controller
+{
+	public function index()
+	{
+		echo "<h1>Perknealan</h1>";
+		echo "Nama saya agus sukma jaya tinggal di bogor hobi yang saya sukai adalah sepak bola";
+	}
+}
